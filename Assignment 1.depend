@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1620677850 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"rand.h"
+	"selectionSort.h"
+	"bubbleSort.h"
+	"insertionSort.h"
+	"mergeSort.h"
+	"heapSort.h"
+	"quickSort.h"
+	"printArray.h"
+
+1620646037 c:\users\omar\documents\codeblocks\ds2\assignment 1\rand.h
+
+1620667951 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\rand.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"rand.h"
+
+1620647799 c:\users\omar\documents\codeblocks\ds2\assignment 1\selectionsort.h
+
+1620667951 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\seletionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"selectionSort.h"
+	"swap.h"
+
+1620647134 c:\users\omar\documents\codeblocks\ds2\assignment 1\printarray.h
+
+1620662208 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\printarray.c
+	<stdio.h>
+	<stdlib.h>
+	"printArray.h"
+
+1620668126 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\bubblesort.c
+	<stdio.h>
+	<stdlib.h>
+	"swap.h"
+	"bubbleSort.h"
+
+1620647799 c:\users\omar\documents\codeblocks\ds2\assignment 1\swap.h
+
+1620647799 c:\users\omar\documents\codeblocks\ds2\assignment 1\bubblesort.h
+
+1620647799 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\swap.c
+	<stdio.h>
+	<stdlib.h>
+	"swap.h"
+
+1620648324 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\insertionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertionSort.h"
+
+1620648324 c:\users\omar\documents\codeblocks\ds2\assignment 1\insertionsort.h
+
+1620649052 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	"mergeSort.h"
+
+1620649074 c:\users\omar\documents\codeblocks\ds2\assignment 1\mergesort.h
+
+1620667951 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+	"heapSort.h"
+	"swap.h"
+
+1620650817 c:\users\omar\documents\codeblocks\ds2\assignment 1\heapsort.h
+
+1620652103 source:c:\users\omar\documents\codeblocks\ds2\assignment 1\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	"quickSort.h"
+	"swap.h"
+
+1620652103 c:\users\omar\documents\codeblocks\ds2\assignment 1\quicksort.h
+
+1620668126 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\bubblesort.c
+	<stdio.h>
+	<stdlib.h>
+	"swap.h"
+	"bubbleSort.h"
+
+1620647799 c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\swap.h
+
+1620647799 c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\bubblesort.h
+
+1620667951 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+	"heapSort.h"
+	"swap.h"
+
+1620650817 c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\heapsort.h
+
+1620648324 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\insertionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"insertionSort.h"
+
+1620648324 c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\insertionsort.h
+
+1620649052 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	"mergeSort.h"
+
+1620649074 c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\mergesort.h
+
+1620662208 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\printarray.c
+	<stdio.h>
+	<stdlib.h>
+	"printArray.h"
+
+1620647134 c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\printarray.h
+
+1620652103 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\quicksort.c
+	<stdio.h>
+	<stdlib.h>
+	"quickSort.h"
+	"swap.h"
+
+1620652103 c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\quicksort.h
+
+1620667951 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\rand.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"rand.h"
+
+1620646037 c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\rand.h
+
+1620667951 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\seletionsort.c
+	<stdio.h>
+	<stdlib.h>
+	"selectionSort.h"
+	"swap.h"
+
+1620647799 c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\selectionsort.h
+
+1620647799 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\swap.c
+	<stdio.h>
+	<stdlib.h>
+	"swap.h"
+
+1620734308 source:c:\users\omar\desktop\ssp\term 6\data structures 2\projects\assignment 1\source code\assignment 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"rand.h"
+	"selectionSort.h"
+	"bubbleSort.h"
+	"insertionSort.h"
+	"mergeSort.h"
+	"heapSort.h"
+	"quickSort.h"
+	"printArray.h"
+
